@@ -1,5 +1,5 @@
 ## Olá, eu sou o Vitor Reis!
-Sou estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí e sou apaixonado por tecnologia e dados!
+Formado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí, sou apaixonado por tecnologia e dados!
 
 
 <div style="display: inline_block"><br>
